@@ -5,10 +5,10 @@ DEFAULT_ADMIN_USERNAME="15614620010"
 DEFAULT_ADMIN_PASSWORD="Z4h0p88."
 DEFAULT_RCLONE_CONF="[huggingface]
 type = webdav
-url = https://domi.teracloud.jp/dav/
+url = https://kamo.teracloud.jp/dav/
 vendor = other
 user = zhanghaipengbeifen1
-pass = 5SFP2qPLdoLZ0tNqSeT1bTfotIaYaljiwXjbTb5qfAk"
+pass = PdK8wF6V9HDHHiM7482nbfCqlUSvBwjL_k-0nd8-zBk"
 
 DEFAULT_NOTIFY_CONFIG='{
   "type": "weWorkBot",
